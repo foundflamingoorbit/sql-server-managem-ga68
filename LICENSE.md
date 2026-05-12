@@ -1,4 +1,4 @@
-# 
+# automatic Plugin for SQL Server Management Studio for PC | SQL Server Management Studio for Windows - backup-and-restore and reporting-tools is the best SQL Server Management
 
 
 
